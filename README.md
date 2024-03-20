@@ -1,2 +1,4 @@
 # Exam_Lab_2022
-file esame.py per il mio esame
+First simple python project at university; the topic was error handling, and custom errors.
+
+
